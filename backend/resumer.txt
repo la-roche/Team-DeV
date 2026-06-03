@@ -1,1 +1,3 @@
-comment executer le bakend en local
+comment executer le bakend en local:
+1- creer cette aboresence sur ton pc et copier coller tout les fichier en question 
+2- entre dans le repertoire backend dans le terminal et taper npm -y init puis npm start 
